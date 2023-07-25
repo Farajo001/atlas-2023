@@ -1,0 +1,134 @@
+{
+	"id": -1,
+	"name": "The Sun of May",
+	"description": "The Sun of May is a national symbol of Argentina and Uruguay, appearing on both of their flags. According to Diego Abad de Santillán, the Sun of May represents Inti, the Incan god of the sun. The specification \"of May\" is a reference to the May Revolution which took place in the week from 18 to 25 May 1810, which marked the beginning of the independence from the Spanish Empire for the countries that were then part of the Viceroyalty of the Río de la Plata. A legend claims that as the new government was proclaimed, the sun broke through the clouds, which was seen as a good omen. ",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Sun_of_May"
+		],
+		"subreddit": [
+			"placearg"
+		],
+		"discord": [
+			"placearg"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				1240,
+				986
+			],
+			[
+				1226,
+				998
+			],
+			[
+				1231,
+				984
+			],
+			[
+				1216,
+				994
+			],
+			[
+				1211,
+				992
+			],
+			[
+				1221,
+				979
+			],
+			[
+				1199,
+				990
+			],
+			[
+				1214,
+				971
+			],
+			[
+				1191,
+				981
+			],
+			[
+				1212,
+				961
+			],
+			[
+				1195,
+				968
+			],
+			[
+				1194,
+				961
+			],
+			[
+				1210,
+				956
+			],
+			[
+				1210,
+				956
+			],
+			[
+				1180,
+				956
+			],
+			[
+				1179,
+				952
+			],
+			[
+				1209,
+				949
+			],
+			[
+				1188,
+				927
+			],
+			[
+				1211,
+				942
+			],
+			[
+				1180,
+				912
+			],
+			[
+				1215,
+				933
+			],
+			[
+				1191,
+				901
+			],
+			[
+				1220,
+				925
+			],
+			[
+				1222,
+				911
+			],
+			[
+				1232,
+				916
+			],
+			[
+				1247,
+				925
+			],
+			[
+				1248,
+				986
+			]
+		]
+	},
+	"center": {
+		"254": [
+			1228,
+			950
+		]
+	}
+}
